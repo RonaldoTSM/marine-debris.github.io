@@ -31,6 +31,6 @@ env/
 
 #retirar depois o json e jupyer
 marida_multi_models.json
-marida_multi_models.ipynb 
+marida_rf copy.json
 marida_yolo.yaml 
 yolov8n.pt
